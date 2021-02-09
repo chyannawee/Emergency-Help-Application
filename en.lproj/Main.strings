@@ -1,0 +1,123 @@
+
+/* Class = "UILabel"; text = "Date & Time"; ObjectID = "1fy-h8-Bfk"; */
+"1fy-h8-Bfk.text" = "Date & Time";
+
+/* Class = "UIButton"; normalTitle = "               Add Contact"; ObjectID = "8bO-8x-tk7"; */
+"8bO-8x-tk7.normalTitle" = "               Contact";
+
+/* Class = "UIButton"; normalTitle = "               Add Entry"; ObjectID = "A2k-k2-xXt"; */
+"A2k-k2-xXt.normalTitle" = "               Note";
+
+/* Class = "UILabel"; text = "Aftermath"; ObjectID = "A5V-75-f3O"; */
+"A5V-75-f3O.text" = "Aftermath";
+
+/* Class = "UILabel"; text = "Contact Name"; ObjectID = "AM9-hd-rpj"; */
+"AM9-hd-rpj.text" = "Contact Name";
+
+/* Class = "UINavigationItem"; title = "Notes"; ObjectID = "AX0-NR-Z8Q"; */
+"AX0-NR-Z8Q.title" = "Notes";
+
+/* Class = "UITextField"; placeholder = "Contact Number"; ObjectID = "Avq-S4-THL"; */
+"Avq-S4-THL.placeholder" = "Contact Number";
+
+/* Class = "UILabel"; text = "Last Modified Timestamp"; ObjectID = "C9C-ga-m08"; */
+"C9C-ga-m08.text" = "Last Modified Timestamp";
+
+/* Class = "UITextField"; placeholder = "Where were you when the incident happened?"; ObjectID = "C9k-jh-17i"; */
+"C9k-jh-17i.placeholder" = "Where were you when the incident happened?";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Cbs-95-pml"; */
+"Cbs-95-pml.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Note Title"; ObjectID = "CvU-Yn-xds"; */
+"CvU-Yn-xds.text" = "Note Title";
+
+/* Class = "UIButton"; normalTitle = "Trim"; ObjectID = "Dwa-M6-Iz1"; */
+"Dwa-M6-Iz1.normalTitle" = "Trim";
+
+/* Class = "UILabel"; text = "Children"; ObjectID = "E6S-uL-1Rd"; */
+"E6S-uL-1Rd.text" = "Children";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "ETb-fB-FN5"; */
+"ETb-fB-FN5.normalTitle" = "Stop";
+
+/* Class = "UITextField"; placeholder = "How did they behave after the abuse?"; ObjectID = "EUi-O9-yYm"; */
+"EUi-O9-yYm.placeholder" = "How did they behave after the abuse?";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "GFc-6D-JJ8"; */
+"GFc-6D-JJ8.title" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ICm-He-ZXg"; */
+"ICm-He-ZXg.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "IgA-ir-X4X"; */
+"IgA-ir-X4X.title" = "Title";
+
+/* Class = "UITextField"; placeholder = "Contact"; ObjectID = "Jfz-Sc-vbJ"; */
+"Jfz-Sc-vbJ.placeholder" = "Contact";
+
+/* Class = "UILabel"; text = "Instigation"; ObjectID = "K7B-J0-71C"; */
+"K7B-J0-71C.text" = "Instigation";
+
+/* Class = "UILabel"; text = "Witnesses"; ObjectID = "Nrw-Bi-4bG"; */
+"Nrw-Bi-4bG.text" = "Witnesses";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "PVN-0v-Bt9"; */
+"PVN-0v-Bt9.text" = "00:00";
+
+/* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "QPz-XB-OsZ"; */
+"QPz-XB-OsZ.title" = "Contacts";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "Qkk-mk-ia2"; */
+"Qkk-mk-ia2.title" = "Home";
+
+/* Class = "UILabel"; text = "Contact Number"; ObjectID = "RkI-Hs-WUo"; */
+"RkI-Hs-WUo.text" = "Contact Number";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Tt7-Ue-OWK"; */
+"Tt7-Ue-OWK.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "VE4-XE-bLF"; */
+"VE4-XE-bLF.text" = "Location";
+
+/* Class = "UIButton"; normalTitle = "Speech"; ObjectID = "XDn-Tb-HkI"; */
+"XDn-Tb-HkI.normalTitle" = "Speech";
+
+/* Class = "UIButton"; normalTitle = "Turn On Voice Recognition"; ObjectID = "XYM-RR-GNl"; */
+"XYM-RR-GNl.normalTitle" = "Turn On Voice Recognition";
+
+/* Class = "UILabel"; text = "Last Modified Timestamp"; ObjectID = "YJu-Nz-FV7"; */
+"YJu-Nz-FV7.text" = "Last Modified Timestamp";
+
+/* Class = "UITextView"; text = "Help Me! I am here: "; ObjectID = "awy-Jk-D3Z"; */
+"awy-Jk-D3Z.text" = "Help Me! I am here: ";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "fBE-UG-qOh"; */
+"fBE-UG-qOh.placeholder" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Remove all recordings"; ObjectID = "fk4-Bo-mf9"; */
+"fk4-Bo-mf9.normalTitle" = "Remove all recordings";
+
+/* Class = "UITextField"; placeholder = "Contact "; ObjectID = "g30-GH-rVs"; */
+"g30-GH-rVs.placeholder" = "Contact ";
+
+/* Class = "UILabel"; text = "Emergency Message"; ObjectID = "kks-Hl-Z93"; */
+"kks-Hl-Z93.text" = "Emergency Message";
+
+/* Class = "UIButton"; normalTitle = "Record"; ObjectID = "l1p-jk-jsh"; */
+"l1p-jk-jsh.normalTitle" = "Record";
+
+/* Class = "UIButton"; normalTitle = "Record"; ObjectID = "lbd-b8-u0Q"; */
+"lbd-b8-u0Q.normalTitle" = "Record";
+
+/* Class = "UILabel"; text = "Note Title"; ObjectID = "nu7-eB-90a"; */
+"nu7-eB-90a.text" = "Note Title";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "uOp-lI-qFX"; */
+"uOp-lI-qFX.normalTitle" = "Play";
+
+/* Class = "UITextField"; placeholder = "Contact"; ObjectID = "vmB-LR-Fz6"; */
+"vmB-LR-Fz6.placeholder" = "Contact";
+
+/* Class = "UIButton"; normalTitle = "Show Recordings"; ObjectID = "xbd-Dt-BeS"; */
+"xbd-Dt-BeS.normalTitle" = "Show Recordings";

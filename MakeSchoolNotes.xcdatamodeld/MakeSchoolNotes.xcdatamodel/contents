@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13772" systemVersion="17D47" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Contact" representedClassName=".Contact" syncable="YES" codeGenerationType="class">
+        <attribute name="content" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="modificationTime" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="number" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Note" representedClassName=".Note" syncable="YES" codeGenerationType="class">
+        <attribute name="aftermath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="children" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="content" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="location" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="modificationTime" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="witnessContact" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="witnessContact1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="witnessContact2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="witnessName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="witnessName1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="witnessName2" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Contact" positionX="-54" positionY="90" width="128" height="105"/>
+        <element name="Note" positionX="-63" positionY="-18" width="128" height="225"/>
+    </elements>
+</model>
